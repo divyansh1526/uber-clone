@@ -1,6 +1,6 @@
 const EarningsPanel = () => {
   return (
-    <div className="absolute bottom-0 left-0 right-0 bg-white rounded-t-3xl shadow-2xl p-4 z-40">
+    <div className="absolute bottom-0 left-0 right-0 bg-white rounded-t-3xl shadow-2xl p-4 z-30">
       <div className="w-12 h-1 bg-gray-300 rounded-full mx-auto mb-4"></div>
 
       <div className="flex items-center justify-between mb-4">
